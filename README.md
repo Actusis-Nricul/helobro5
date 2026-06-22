@@ -28,4 +28,4 @@ Feel free to open issues, suggest improvements, or submit pull requests.
 
 ⸻
 
-**“If it works, it stays. If it breaks, I don't care.”**
+**“If it works, it stays. If it breaks, it stays.”**
