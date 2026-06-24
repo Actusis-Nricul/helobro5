@@ -1,4 +1,5 @@
-### helobro5: Random Lua Stuff
+# helobro5: 
+![image](assets/image1.png)
 
 A collection of random Lua scripts, experiments, utilities, and projects I’ve made over time.
 
